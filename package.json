@@ -1,15 +1,16 @@
 {
-  "name": "22i-2614_lab9",
+  "name": "lab08",
   "version": "1.0.0",
-  "main": "t1app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.1"
+    "axios": "^1.8.3",
+    "express": "^4.21.2"
   }
 }
